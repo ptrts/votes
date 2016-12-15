@@ -1,0 +1,73 @@
+spring.main.banner-mode: "off"
+
+logging.level.root: WARN
+
+votes:
+  candidates:
+    - Improve Group
+    - Слот - Они убили Кенни
+    - Theory Of A Deadman - World War Me
+    - The Crenberries - Animal Instinct
+    - Green Day - Basket Case
+    - R.E.M. - Losing My Religion
+    - Электроники - Звенит январская вьюга
+    - The Pretenders - 2000 miles
+    - Reamonn - Moments Like This
+    - Lumen - Радуга
+
+  voters:
+    - 
+      - 4
+      - 7
+      - 9
+      - 2
+      - 5
+      - 3
+      - 1
+      - 6
+      - 8
+      - 10
+    - 
+      - 1
+      - 6
+      - 5
+      - 4
+      - 2
+      - 3
+      - 5
+      - 8
+      - 8
+      - 2
+    - 
+      - 1
+      - 10
+      - 3
+      - 4
+      - 5
+      - 5
+      - 7
+      - 8
+      - 2
+      - 9
+    - 
+      - 1
+      - 8
+      - 10
+      - 3
+      - 5
+      - 6
+      - 4
+      - 2
+      - 7
+      - 9
+    - 
+      - 1
+      - 2
+      - 4
+      - 5
+      - 7
+      - 8
+      - 3
+      - 10
+      - 9
+      - 6
